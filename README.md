@@ -79,7 +79,7 @@ What things you need to install the software and how to install them.
 1. **Clone the repository:**
 
     ```bash
-   https://github.com/anshumanbehera27/stress-level-detector.git
+   https://github.com/Nilesh091/Stress-Level-Detector.git
     ```
 
 2. **Navigate to the project directory:**
